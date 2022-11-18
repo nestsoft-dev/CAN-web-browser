@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "425653242919",
+    "project_id": "can-and-notification",
+    "storage_bucket": "can-and-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425653242919:android:7e33c7a834a3ff3ea91202",
+        "android_client_info": {
+          "package_name": "com.example.can_browser_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425653242919-69asopcr04lc7nov2vegk123fvvcu8qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjEV1LJXVS04NyDvt47WPZNy8KC5430CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425653242919-69asopcr04lc7nov2vegk123fvvcu8qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425653242919:android:525614a000dc5478a91202",
+        "android_client_info": {
+          "package_name": "com.netsoft.developers.can"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425653242919-69asopcr04lc7nov2vegk123fvvcu8qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjEV1LJXVS04NyDvt47WPZNy8KC5430CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425653242919-69asopcr04lc7nov2vegk123fvvcu8qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
